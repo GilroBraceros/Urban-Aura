@@ -20,8 +20,8 @@ remove_cart.php — Processes removal of items from the cart.
 welcome.php — The home page or dashboard shown after login or visiting the site.
 
 Screenshots:
-![index](https://github.com/user-attachments/assets/e7e806fe-abf6-4f9b-ad59-3970e0dcfbdf)![register](https://github.com/user-attachments/assets/3962d666-d56b-4e55-a9c5-93aa6f9d9fc5)
-![register](https://github.com/user-attachments/assets/ad6757cd-b870-4229-a6cf-8af26b3cb269)
+![index](https://github.com/user-attachments/assets/e7e806fe-abf6-4f9b-ad59-3970e0dcfbdf)
+![register](https://github.com/user-attachments/assets/3962d666-d56b-4e55-a9c5-93aa6f9d9fc5)
 ![login](https://github.com/user-attachments/assets/e5059302-92ad-4337-a02a-af2902a7d170)
 ![home](https://github.com/user-attachments/assets/0c506785-276f-4a04-b2ca-6f82c862e40e)
 ![Product](https://github.com/user-attachments/assets/9740afc6-7e5a-476c-8347-2a81a8867e27)
